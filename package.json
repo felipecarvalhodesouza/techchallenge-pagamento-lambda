@@ -1,0 +1,10 @@
+{
+    "name": "lambda-function",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+      "axios": "^0.21.1"
+    }
+  }
